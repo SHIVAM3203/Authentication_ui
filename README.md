@@ -18,4 +18,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-[Title](README.md) ![Title](assets/app_screenshot/1.png) ![Title](<assets/app screenshot/2.png>) ![Title](<assets/app screenshot/3.jpg>) ![Title](<assets/app screenshot/4.png>) ![Title](<assets/app screenshot/5.png>) ![Title](<assets/app screenshot/6.png>)
+[Title](README.md) ![Title](assets/app_screenshot/1.jpg) ![Title](<assets/app screenshot/2.jpg>) ![Title](<assets/app screenshot/3.jpg>) ![Title](<assets/app screenshot/4.jpg>) ![Title](<assets/app screenshot/5.jpg>) ![Title](<assets/app screenshot/6.jpg>)
