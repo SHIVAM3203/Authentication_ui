@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Instagram id : @flutter@spirit
+Instagram id : @shivam_3_2
 
 ## Getting Started
 
@@ -17,5 +17,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](assets/images/Welcome.png)
-[Title](README.md) ![Title](<assets/app screenshot/simulator_screenshot_87496482-4949-46BE-BBF6-222CBE4677B0.png>) ![Title](<assets/app screenshot/simulator_screenshot_083D88BA-D049-4F43-A92C-0932CAC1090B.png>) ![Title](<assets/app screenshot/simulator_screenshot_60C49EC4-E39F-4617-826A-7235D8883997.png>) ![Title](<assets/app screenshot/simulator_screenshot_50D70A35-B669-4872-AB80-A7EAA68DA84B.png>) ![Title](<assets/app screenshot/simulator_screenshot_3F23A72A-30AB-4CBF-81CB-23D0B5F4AA73.png>) ![Title](<assets/app screenshot/simulator_screenshot_3A684A7A-B56B-4AEA-8003-DB03EEB5D4A7.png>)
+
+[Title](README.md) ![Title](assets/app_screenshot/1.png) ![Title](<assets/app screenshot/2.png>) ![Title](<assets/app screenshot/3.png>) ![Title](<assets/app screenshot/4.png>) ![Title](<assets/app screenshot/5.png>) ![Title](<assets/app screenshot/6.png>)
